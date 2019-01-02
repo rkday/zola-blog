@@ -6,6 +6,6 @@ phases:
       - cobalt build
 artifacts:
   files:
-    - **/*
+    - '**/*'
   discard-paths: no
   base-directory: _site
